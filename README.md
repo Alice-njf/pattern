@@ -1,0 +1,2 @@
+# pattern
+print pattern
